@@ -10,13 +10,15 @@ This presentation presents recommendations for an individual real estate investo
 
 ## Business Objective
 
-Microsoft needs concrete recommendations to determine how they should proceed to make films.
+Build an inferential model based on real estate transactions in King County
 
-To evaluate the success of its films, and the business unit as a whole, Microsoft should look at return on investment, or ROI.
+Make investment recommendations for an individual real estate investor
 
 ## Data
 
-The data used was: production budget and box office results, box office results by studio, movie ratings and popularity metrics, and key persons and genre information.
+Approximately 21,500 home sale transactions in King County comprised of sale price and date plus physical details of the homes
+
+![fig1](./figures/fig1.png)
 
 ## Recommendation 1
 
